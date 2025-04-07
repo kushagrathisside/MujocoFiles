@@ -1,0 +1,5 @@
+mujoco>=2.3.0
+robot-descriptions
+numpy
+imageio
+glfw
